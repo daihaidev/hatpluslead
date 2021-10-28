@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hatpluslead
 - 👀 I’m interested in Javascript frameworks
-- 🌱 I’m currently learning new technologies like Agora SDK, Angolia, ElasticSearch etc
 
 # Thanks for visiting my Git! 👋
 <a target="blank" href="https://profile-counter.glitch.me/happycodinglover/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/happycodinglover/count.svg" /></a>
@@ -30,7 +29,7 @@ I'm a software developer, a passionate learner and an aspiring content creator. 
 - 💪 Node 𒑰 Django 𒑰 Serverless 𒑰 PostgreSQL
 
 ### 🌱What I'm Learning
-- 🛠 AWS Cloud Serivces 𒑰 Serverless 𒑰 Terraform
+- 🛠 AWS Cloud Serivces 𒑰 Serverless 𒑰 Terraform 𒑰 Agora SDK, Angolia, ElasticSearch
 - DevOps
 
 `Reach out to me to talk about possible opportunities, mentorship, collaborations and everything in between!`
